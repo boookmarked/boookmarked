@@ -1,6 +1,6 @@
 # About me
 
-- 🌱 I’m currently learning basic DSA and OOPS
+- 
 - 😄 Pronouns: she/her
 <!--
 **boookmarked/boookmarked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
